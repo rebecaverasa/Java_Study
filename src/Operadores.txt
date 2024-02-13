@@ -1,0 +1,11 @@
+OPERADORES RELACIONAIS E OPERADORES LÓGICOS
+1) = (Atribuição)
+2) == (Igualdade comparativa)
+3) != (Diferença comparativa)
+4) > (Maior que)
+5) >= (Maior ou igual que)
+6) < (Menor que)
+7) <= (Menor ou igual que)
+8) && (Operador E)
+9) || (Operador OU)
+10) ! (Operador não)
